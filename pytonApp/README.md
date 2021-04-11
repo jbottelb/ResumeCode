@@ -8,12 +8,12 @@ The server has a dictionary of groupMe entities that contain both a file about t
 
 OO API:
 
-GET/STATS - gets groupchat json and information about a groupchat from a group key
-GET/USER - gets information about that user (messages, likes, ect)
-GET/SEARCH - searches groupMe for phrases and returns a list of the messages with that phrase
-GET/COUNT - returns the number of time a phrase has been sent in a groupchat
-PUT - puts group message into server
-POST - updates group message in server
+GET/STATS - gets groupchat json and information about a groupchat from a group key\
+GET/USER - gets information about that user (messages, likes, ect)\
+GET/SEARCH - searches groupMe for phrases and returns a list of the messages with that phrase\
+GET/COUNT - returns the number of time a phrase has been sent in a groupchat\
+PUT - puts group message into server\
+POST - updates group message in server\
 DELETE - removes group message info from the server
 
 JSON specification: https://docs.google.com/document/d/1naktkApal5BpFJYpBQYC3Qx-JTGhwhAtcaWDPr27dxY/edit
