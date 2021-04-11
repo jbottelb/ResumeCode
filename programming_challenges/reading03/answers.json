@@ -1,0 +1,16 @@
+{
+  "q01": "vector",
+  "q02": "set",
+  "q03": "map",
+  "q04": "len(lst) != len(set(lst))",
+  "q05": [
+    "ordered_sets_search",
+    "sets_order",
+    "unordered_maps_hash"
+  ],
+  "q06": [
+    "sets_immutable",
+    "sets_declaration",
+    "dicts_declaration"
+  ]
+}

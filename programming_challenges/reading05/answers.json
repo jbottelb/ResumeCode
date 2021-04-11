@@ -1,0 +1,17 @@
+{
+  "q1": [
+    "0",
+    "bitset | (1 << i)",
+    "bitset & (1 << i)",
+    "bitset ^ (1 << i)"
+  ],
+  "q2": [
+    "22",
+    "0"
+  ],
+  "q3": [
+    "approach",
+    "efficiency"
+  ],
+  "q4": "end"
+}

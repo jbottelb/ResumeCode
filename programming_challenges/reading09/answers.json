@@ -1,0 +1,37 @@
+{
+  "q01": [
+    "spanning",
+    "acyclic",
+    "minimum",
+    "greedy",
+    "priority"
+  ],
+  "q02": [
+    "0",
+    "start",
+    "start",
+    "target",
+    "visited",
+    "target",
+    "source",
+    "cost",
+    "target",
+    "neighbor",
+    "visited"
+  ],
+  "q03": [
+    "topological sort",
+    "directed",
+    "before",
+    "Acyclic",
+    "Kahn"
+  ],
+  "q04": [
+    "one",
+    "two",
+    "three",
+    "four",
+    "five",
+    "six"
+  ]
+}

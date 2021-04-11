@@ -1,0 +1,34 @@
+{
+  "q01": [
+    "Eulerian",
+    "Hamiltonian",
+    "circuit",
+    "NP-Hard"
+  ],
+  "q02": [
+    "even",
+    "odd_even"
+  ],
+  "q03": [
+    "complete",
+    "degree",
+    "sum"
+  ],
+  "q04": [
+    "epath",
+    "hpath",
+    "hcircuit"
+  ],
+  "q05": [
+    "Maximum Flow",
+    "source",
+    "sink",
+    "Minimum Cut",
+    "minimum-weight"
+  ],
+  "q06": [
+    "7",
+    "7",
+    "2"
+  ]
+}
