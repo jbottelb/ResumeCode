@@ -5,8 +5,7 @@
 
 This is the [CSE-30872-FA20] reading and challenge assignments repository for:
 
-- **Name**:     Domer McDomerson
-- **NetID**:    dmcdomer
+- **Name**:     Josh Bottelberghe
 
 [CSE-30872-FA20]:   https://www3.nd.edu/~pbui/teaching/cse.30872.fa20/
 
