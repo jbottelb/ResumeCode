@@ -10,6 +10,6 @@ C_Server: A server written in C \
 Programming Challenges: Solutions to interview style questions in pyhton3 (Problem statments in the readme) \
 Python App: a web app with a working API
 
-I recommend looking into Programming Challenges for coding concepts like dynamic programming and data strucutres (in python) and the python app for web development. 
+I recommend looking into Programming Challenges for coding concepts like dynamic programming and data strucutres (in python) and the python app (the pythonApp, not PythonApp) for web development in python. 
 
 I am currently working on hosting an app on heroku with an API to display some web development I have been learning on the side. 
