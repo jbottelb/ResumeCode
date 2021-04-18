@@ -1,0 +1,110 @@
+they 're in the way
+master , master , master
+i 'm in time , i 'm in
+the dark side ?
+jar jar jar
+and i 'll be with you to get out of the planet
+we have to be with the planet
+fighters have a fighters
+good
+they 're in the planet
+[1] train_loss=248025.42625498772 train_ppl=110.42225618517999 dev_ppl=72.06828378978035
+they 're going to them
+master , master , master , master luke , master luke
+i see it 's much time
+the queen 's ?
+roger
+i 'm going to get to the rebel fleet
+we 're gonna have to the rebel fleet
+there 's fighters in the fighters
+all right
+we 're gonna get out of the way
+[2] train_loss=195826.45415610075 train_ppl=41.02784469196469 dev_ppl=59.82746424595532
+they 're in they 're in them
+master , general solo , the ship that 's coming in
+i see it 's so much , i 'm here
+the count ?
+roger , sir
+the ship that 's your fleet to be with you , my ship
+we 're gonna be with the rebellion and the other way of the rebellion
+we 're in the fighters in the fighters
+we 're gonna be a lot of the planet
+we 're in the planet we 're in time
+[3] train_loss=174047.48074391484 train_ppl=27.144325128089516 dev_ppl=56.58430403360397
+lock 's been r2
+master ... and the ship and bring me the main entrance
+i see you see it
+she 's gonna be ?
+roger
+the fleet is my best troops are you
+we 're coming in the rebellion will be a clone army
+lock in the fighters in the fighters
+we 're coming in
+we 're coming in time
+[4] train_loss=161632.0344325453 train_ppl=21.44911877697045 dev_ppl=54.58459543540735
+lock is the r2
+master , general solo is the main entrance
+i see it 's all right
+she 's going to be ?
+roger , sir
+the fleet is to be a small fleet to be a small fleet
+we 're coming in the rebellion in the army
+lock in the fighters in the fighters
+we 're going to start the last
+let 's go back to us back
+[5] train_loss=152845.2256577313 train_ppl=18.156410307807757 dev_ppl=54.14265263555287
+lock they have r2
+master , general solo is the main entrance
+i 'm going to see this thing
+do you think that her , huh ?
+roger , sir
+your fleet to be mindful of your fleet
+we 're in the rebellion will be yoda in the army
+open the fighters in the fighters
+we 're gonna be a lot of peace
+let 's go back to the blast them
+[6] train_loss=146353.54905581474 train_ppl=16.052999249203946 dev_ppl=55.206540800592094
+lock they have been working
+master , master is in the ship and take the main entrance on the droids
+i see it 's so much to see this
+do you think , count !
+copy , sir
+and i 'm gonna find your position to be with you
+we 're coming in your way in your way
+fire in the fighters in the fighters
+all right now
+let 's go back to the get through the way through
+[7] train_loss=141170.8099115789 train_ppl=14.5500496624041 dev_ppl=56.23011899054387
+lock he 's wrong
+master ... and your ship 's with the ship and take the main entrance
+i 'm going to see this thing
+do you copy ?
+roger , sir
+the target is my destiny
+we 're gonna be here in your army in the kenobi
+lock in the fighters in the battle
+we 're gonna get us
+they 're going to get out of them
+[8] train_loss=137025.81929937005 train_ppl=13.449960175632537 dev_ppl=56.68674261512096
+lock he must have been hit
+master ... and the ship 's with the ship and back to the droid army
+i 'm going to see this thing
+do you copy ?
+sir
+and i 'm gonna find your position to be able to get you to the fleet
+we 're gonna have a lot of kenobi
+just got the fighters in the battle
+we 're gonna begin the negotiations
+let him have to get us through
+[9] train_loss=133020.4555145502 train_ppl=12.466015640258817 dev_ppl=56.9860493616007
+lock he must have r2
+master ... and the ship 's with the ship and in the main entrance on the droids
+i 'm going to see this thing
+do you copy ?
+roger , sir
+the target is my small , i 'm going on
+we 're gonna be sure there 's kenobi
+open the fighters in the fighters
+we 're gonna the negotiations if we 're gonna let 's get the whole thing 's going
+let him get us through the planet we 're coming
+[10] train_loss=129682.67132082582 train_ppl=11.70128025380363 dev_ppl=56.1609693278966

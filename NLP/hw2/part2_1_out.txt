@@ -1,0 +1,22 @@
+the must ,
+master master ,
+oh i ,
+queen the
+roger get ,
+the , ,
+i 're ,
+
+all , ,
+let they i
+[1] train_loss=308870.98271131516 train_ppl=350.1538671029811 dev_ppl=262.6529681304412
+door must 're
+
+oh i you
+queen
+roger you ,
+the remember ,
+i 're you
+leads the get
+all
+let he never
+[2] train_loss=286438.0470905304 train_ppl=228.80862873269717 dev_ppl=243.73970043853348
